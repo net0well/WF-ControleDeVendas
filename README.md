@@ -22,7 +22,7 @@
 <h2>Como Executar o Projeto</h2>
 <ol>
     <li>Clone este repositório para o seu ambiente local:
-        <pre><code>git clone https://github.com/seuusuario/sistema-de-vendas.git</code></pre>
+        <pre><code>git clone https://github.com/net0well/Projeto-Controle-Vendas-Windows-Forms-.git</code></pre>
     </li>
     <li>Configure o banco de dados MySQL:
         <ul>
